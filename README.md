@@ -1,1 +1,1 @@
-# devops-aula07 OLHOU POR QUE GOSTOU PAL NO CU DE QUEM SE LIVROU
+# devops-aula07
